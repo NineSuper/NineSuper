@@ -9,4 +9,4 @@
 - I stopped dev on Gmod 2 years ago. I founded a large community with +10,000 unique players.
 - I would like to work in the video game in order to lead a dev team in order to be able to create my projects
 
-📢 Check my discord if you have any questions [Discord](https://discord.gg/EmANhzt) 🎈
+📢 Check my [Discord](https://discord.gg/EmANhzt) if you have any questions 🎈
