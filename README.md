@@ -2,7 +2,7 @@
 
 - 📂 I'm currently on my first github project for [42](https://github.com/NineSuper/School42) !
 
-[![tde-los-'s 42 stats](https://badge42.coday.fr/api/v2/clpo61f0c167701t692asdwoa/stats?cursusId=67&coalitionId=316)](https://github.com/Coday-meric/badge42)
+[![tde-los-'s 42 stats](https://badge42.coday.fr/api/v2/clpo61f0c167701t692asdwoa/stats?cursusId=21&coalitionId=316)](https://github.com/Coday-meric/badge42)
 
 ## <div align="center">🎫 About me </div>
 - I have been developing since I was 15, on LUA/GLUA with 4 GMOD servers, which one of is the best French server in its category.
