@@ -1,4 +1,4 @@
-<h1 align="center">Tom's GitHub Playground 🚀</h1>
+<h1 align="center">NineSuper's GitHub Playground 🚀</h1>
 
 👨‍💻 Computer Science Student @ École 42<br/>
 🌍 Passionate about coding since the age of 15<br/>
@@ -16,10 +16,10 @@
 
 <h2 align="center">🛠️ Skills</h2>
 
-💻 Programming: C, C++, LUA
-🌐 Web Development: React
-🕹️ Game Development: Garry's Mod Lua Scripting
-🛢️ Database: MySQL, PhpMyAdmin
+💻 Programming: C, C++, LUA</br>
+🌐 Web Development: React</br>
+🕹️ Game Development: Garry's Mod Lua Scripting</br>
+🛢️ Database: MySQL, PhpMyAdmin</br>
 
 <h2 align="center">📫 **Connect with Me** </h2>
 
@@ -29,10 +29,10 @@
 
 <h2 align="center">👨‍💼 Experience</h2>
 
-👨‍💻 **Student at Ecole 42**
-📆 Dates: 2022 - present
+👨‍💻 **Student at Ecole 42**</br>
+📆 Dates: 2022 - present</br>
   
-🎮 **Community Manager**
-📆 Dates: 2017 - 2020
-📌 Managed a gaming community with +10,000 unique players
-🚀 Successfully led Garry's Mod and Minecraft servers
+🎮 **Community Manager**</br>
+📆 Dates: 2017 - 2020</br>
+📌 Managed a gaming community with +10,000 unique players</br>
+🚀 Successfully led Garry's Mod and Minecraft servers</br>
