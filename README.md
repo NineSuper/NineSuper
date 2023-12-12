@@ -28,10 +28,10 @@
 📌 Managed a gaming community with +10,000 unique players</br>
 🚀 Successfully led Garry's Mod and Minecraft servers</br>
 
-[![tde-los-'s 42 stats](https://badge42.coday.fr/api/v2/clpo61f0c167701t692asdwoa/stats?cursusId=21&coalitionId=316)](https://github.com/Coday-meric/badge42)
-
 ---
 
 <h2 align="center">📫 Connect with Me </h2>
 
 📧 Email: NineSuper66@gmail.com
+
+[![tde-los-'s 42 stats](https://badge42.coday.fr/api/v2/clpo61f0c167701t692asdwoa/stats?cursusId=21&coalitionId=316)](https://github.com/Coday-meric/badge42)
