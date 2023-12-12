@@ -9,7 +9,7 @@
 
 🌐 **My Website:** [lepoulpehub.fr](https://lepoulpehub.fr) - server hosting</br>
 👾 **Game Project:** [Cub3d](https://github.com/NineSuper/Cub3D) - a doom like in C</br>
-📘 **Project 3:** [CPP-MODULE](https://github.com/NineSuper/CPP-module) - C++ Pool with 42</br>
+📘 **CPP Learning:** [CPP-MODULE](https://github.com/NineSuper/CPP-module) - C++ Pool with 42</br>
 
 <h2 align="center">🛠️ Skills</h2>
 
