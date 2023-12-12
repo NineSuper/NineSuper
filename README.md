@@ -21,7 +21,7 @@
 🕹️ **Game Development:** Garry's Mod Lua Scripting</br>
 🛢️ **Database:** MySQL, PhpMyAdmin</br>
 
-<h2 align="center">📫 **Connect with Me** </h2>
+<h2 align="center">📫 Connect with Me </h2>
 
 📧 Email: NineSuper66@gmail.com
 
