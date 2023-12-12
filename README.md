@@ -21,12 +21,12 @@
 <h2 align="center">👨‍💼 Experience</h2>
 
 👨‍💻 **Student at School 42**</br>
-📆 Dates: 2022 - present</br>
+  📆 Dates: 2022 - present</br>
   
 🎮 **Community Manager**</br>
-📆 Dates: 2017 - 2020</br>
-📌 Managed a gaming community with +10,000 unique players</br>
-🚀 Successfully led Garry's Mod and Minecraft servers</br>
+  📆 Dates: 2017 - 2020</br>
+  📌 Managed a gaming community with +10,000 unique players</br>
+  🚀 Successfully led Garry's Mod and Minecraft servers</br>
 
 ---
 
