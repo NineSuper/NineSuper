@@ -7,9 +7,9 @@
 
 <h2 align="center">🚀 Projects</h2>
 
-📁 **Project 1** [www.lepoulpehub.fr](https://lepoulpehub.fr) - server hosting</br>
+📁 **Project 1:** [lepoulpehub.fr](https://lepoulpehub.fr) - server hosting</br>
 📁 **Project 2:** [Cub3d](https://github.com/NineSuper/Cub3D) - a doom like in C</br>
-📁 **Project 3** [CPP-MODULE](https://github.com/NineSuper/CPP-module) - C++ Pool with 42</br>
+📁 **Project 3:** [CPP-MODULE](https://github.com/NineSuper/CPP-module) - C++ Pool with 42</br>
 
 
 [![tde-los-'s 42 stats](https://badge42.coday.fr/api/v2/clpo61f0c167701t692asdwoa/stats?cursusId=21&coalitionId=316)](https://github.com/Coday-meric/badge42)
