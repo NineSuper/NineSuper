@@ -1,6 +1,6 @@
 <h1 align="center">NineSuper's GitHub Playground 🚀</h1>
 
-👨‍💻 Computer Science Student @ École 42<br/>
+👨‍💻 Computer Science Student @ School 42<br/>
 🌍 Passionate about coding since the age of 15<br/>
 🎮 Former leader of a thriving gaming community with +10,000 unique players<br/>
 🕹️ Specialized in Garry's Mod and Minecraft servers<br/>
@@ -16,10 +16,10 @@
 
 <h2 align="center">🛠️ Skills</h2>
 
-💻 Programming: C, C++, LUA</br>
-🌐 Web Development: React</br>
-🕹️ Game Development: Garry's Mod Lua Scripting</br>
-🛢️ Database: MySQL, PhpMyAdmin</br>
+💻 **Programming:** C, C++, LUA</br>
+🌐 **Web Development:** React</br>
+🕹️ **Game Development:** Garry's Mod Lua Scripting</br>
+🛢️ **Database:** MySQL, PhpMyAdmin</br>
 
 <h2 align="center">📫 **Connect with Me** </h2>
 
@@ -29,7 +29,7 @@
 
 <h2 align="center">👨‍💼 Experience</h2>
 
-👨‍💻 **Student at Ecole 42**</br>
+👨‍💻 **Student at School 42**</br>
 📆 Dates: 2022 - present</br>
   
 🎮 **Community Manager**</br>
