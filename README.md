@@ -34,4 +34,4 @@
 
 📧 Email: NineSuper66@gmail.com
 
-<p align="center"><a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clpo61f0c167701t692asdwoa/stats?cursusId=67&coalitionId=316" alt="tde-los-'s 42 stats" /></a></p>
+<p align="center"><a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clpo61f0c167701t692asdwoa/stats?cursusId=21&coalitionId=316" alt="tde-los-'s 42 stats" /></a></p>
