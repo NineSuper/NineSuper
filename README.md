@@ -16,7 +16,7 @@
 💻 **Programming:** C, C++, LUA</br>
 🌐 **Web Development:** React</br>
 🕹️ **Game Development:** Garry's Mod Lua Scripting</br>
-🛢️ **Database:** MySQL, PhpMyAdmin</br>
+🛢️ **Database:** MySQL, PhpMyAdmin, Django</br>
 
 <h2 align="center">👨‍💼 Experience</h2>
 
