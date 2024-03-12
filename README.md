@@ -14,9 +14,11 @@
 <h2 align="center">🛠️ Skills</h2>
 
 💻 **Programming:** C, C++, LUA</br>
-🌐 **Web Development:** React</br>
+🌐 **Web Development:** React, CSS, HTML</br>
+🐍 **Backend Framework** Django </br>
 🕹️ **Game Development:** Garry's Mod Lua Scripting</br>
-🛢️ **Database:** MySQL, PhpMyAdmin, Django</br>
+🛢️ **Database:** MySQL, PhpMyAdmin</br>
+
 
 <h2 align="center">👨‍💼 Experience</h2>
 
