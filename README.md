@@ -7,13 +7,12 @@
 
 <h2 align="center">🚀 Projects</h2>
 
-🌐 **My Website:** [lepoulpehub.fr](https://lepoulpehub.fr) - server hosting</br>
 👾 **Game Project:** [Cub3d](https://github.com/NineSuper/Cub3D) - a doom like in C</br>
 📘 **CPP Learning:** [CPP-MODULE](https://github.com/NineSuper/CPP-module) - C++ Pool with 42</br>
 
 <h2 align="center">🛠️ Skills</h2>
 
-💻 **Programming:** C, C++, LUA</br>
+💻 **Programming:** C, C++, JavaScript, Python</br>
 🌐 **Web Development:** React, CSS, HTML</br>
 🐍 **Backend Framework** Django </br>
 🛢️ **Database:** MySQL, PhpMyAdmin, PostgreSQL</br>
