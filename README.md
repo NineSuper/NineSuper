@@ -9,7 +9,7 @@
 
 👾 **Game Project:** [Cub3d](https://github.com/NineSuper/Cub3D) - a doom like in C</br>
 📘 **CPP Learning:** [CPP-MODULE](https://github.com/NineSuper/CPP-module) - C++ Pool with 42</br>
-🐚 **Minishell** [Minishell](https://github.com/NineSuper/Minishell) - Create a shell in C</br>
+🐚 **Minishell:** [Minishell](https://github.com/NineSuper/Minishell) - Create a shell in C</br>
 
 <h2 align="center">🛠️ Skills</h2>
 
