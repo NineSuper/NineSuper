@@ -10,7 +10,8 @@
 👾 **[Cub3d](https://github.com/NineSuper/Cub3D)** - a doom like in C</br>
 📘 **[CPP learning](https://github.com/NineSuper/CPP-module)** - C++ Pool with 42</br>
 🐚 **[Minishell](https://github.com/NineSuper/Minishell)** - Create a shell in C</br>
-🧠 **[Philosophers](https://github.com/NineSuper/philosophers)**- Implementation of dining philosophers problem using threads in C</br>
+🧠 **[Philosophers](https://github.com/NineSuper/philosophers)** - Implementation of dining philosophers problem using threads in C</br>
+🔄 **[Push_Swap](https://github.com/NineSuper/push_swap)** - Sort data using two stacks and limited set of instructions in C</br>
 
 <h2 align="center">🛠️ Skills</h2>
 
