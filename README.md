@@ -12,6 +12,7 @@
 🐚 **[Minishell](https://github.com/NineSuper/Minishell)** - Create a shell in C</br>
 🧠 **[Philosophers](https://github.com/NineSuper/philosophers)** - Implementation of dining philosophers problem using threads in C</br>
 🔄 **[Push_Swap](https://github.com/NineSuper/push_swap)** - Sort data using two stacks and limited set of instructions in C</br>
+🌐 **[ft_transcendence](https://github.com/lcssbrs/ft_transcendence/tree/tom)** - Multiplayer web-based pong game using Django, PostgreSQL, and WebSockets
 
 <h2 align="center">🛠️ Skills</h2>
 
