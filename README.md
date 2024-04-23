@@ -1,6 +1,6 @@
 <h1 align="center">NineSuper's GitHub Playground 🚀</h1>
 
-👨‍💻 Computer Science Student @ School 42<br/>
+👨‍💻 Computer Science Student @ [42](https://42.fr/)<br/>
 🌍 Passionate about coding since the age of 15<br/>
 🎮 Former leader of a thriving gaming community with +10,000 unique players<br/>
 🕹️ Specialized in Garry's Mod and Minecraft servers<br/>
