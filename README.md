@@ -17,7 +17,7 @@
 
 💻 **Programming:** C, C++, JavaScript, Python</br>
 🌐 **Web Development:** React, CSS, HTML</br>
-🐍 **Backend Framework** Django </br>
+🐍 **Backend Framework:** Django </br>
 🛢️ **Database:** MySQL, PhpMyAdmin, PostgreSQL</br>
 🕹️ **Game Development:** Garry's Mod Lua Scripting</br>
 
