@@ -7,7 +7,7 @@
 
 <h2 align="center">🚀 Projects</h2>
 
-🌐 **[ft_transcendence](https://github.com/lcssbrs/ft_transcendence/tree/tom)** - Multiplayer web-based pong game using Django, PostgreSQL, and WebSockets
+🌐 **[ft_transcendence](https://github.com/lcssbrs/ft_transcendence/tree/tom)** - Multiplayer web-based pong game using Django, PostgreSQL, and WebSockets </br>
 👾 **[Cub3d](https://github.com/NineSuper/Cub3D)** - a doom like in C</br>
 🐚 **[Minishell](https://github.com/NineSuper/Minishell)** - Create a shell in C</br>
 🧠 **[Philosophers](https://github.com/NineSuper/philosophers)** - Implementation of dining philosophers problem using threads in C</br>
