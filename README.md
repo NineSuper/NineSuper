@@ -22,7 +22,7 @@
 🛢️ **Database:** MySQL, PhpMyAdmin, PostgreSQL</br>
 🕹️ **Game Development:** Garry's Mod Lua Scripting</br>
 
-<h2 align="center">🐛 currently on these projects</h2>
+<h2 align="center">🐛 Currently on these projects</h2>
 
 👽 **[Scop](https://github.com/NineSuper/Scop)** - 3D rendering in C with OpenGL and SDL2
 
