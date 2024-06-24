@@ -25,7 +25,6 @@
 <h2 align="center">🐛 Currently on these projects</h2>
 
 👽 **[Scop](https://github.com/NineSuper/Scop)** - 3D rendering in C with OpenGL and SDL2 </br>
-🐍 **[Snake](https://github.com/NineSuper/snake)** - Snake Game in C++ with different game variations </br>
 
 <h2 align="center">👨‍💼 Experience</h2>
 
