@@ -38,11 +38,11 @@
   🚀 Successfully led Garry's Mod and Minecraft servers</br>
 
 ---
-<div style="text-align: center;">
+<p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,docker,django,mysql,postgres,godot,lua,github&perline=5" alt="My Skills">
+        <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,docker,django,mysql,postgres,godot,lua,github&perline=8" alt="My Skills">
     </a>
-</div>
+</p>
 <h2 align="center">📫 Connect with Me </h2>
 
 📧 Email: tomdlm.pro@gmail.com
