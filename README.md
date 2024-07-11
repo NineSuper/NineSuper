@@ -39,7 +39,9 @@
 
 ---
 <div style="text-align: center;">
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,docker,django,mysql,postgres,godot,lua,github&perline=5)](https://skillicons.dev)</h2>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,docker,django,mysql,postgres,godot,lua,github&perline=5" alt="My Skills">
+    </a>
 </div>
 <h2 align="center">📫 Connect with Me </h2>
 
