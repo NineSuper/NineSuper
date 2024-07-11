@@ -20,12 +20,12 @@
 🌐 **Web Development:** React, CSS, HTML</br>
 🐍 **Backend Framework:** Django </br>
 🛢️ **Database:** MySQL, PhpMyAdmin, PostgreSQL</br>
-🕹️ **Game Development:** Garry's Mod Lua Scripting</br>
+🕹️ **Game Development:** Godot Engine, Garry's Mod Lua Scripting, Minecraft</br>
 
 <h2 align="center">🐛 Currently on these projects</h2>
 
 👽 **[Scop](https://github.com/NineSuper/Scop)** - 3D rendering in C with OpenGL and SDL2 </br>
-🎮 **[Emberfall](https://github.com/NineSuper/Emberfall)** - A 2D top-view exploration game shooter created with Godot</br>
+🎮 **[Emberfall](https://github.com/NineSuper/Emberfall)** - A 2D top-view exploration multiplayer game shooter created with Godot</br>
 
 <h2 align="center">👨‍💼 Experience</h2>
 
