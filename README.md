@@ -8,6 +8,7 @@
 <h2 align="center">🚀 Projects</h2>
 
 🌐 **[ft_transcendence](https://github.com/lcssbrs/ft_transcendence/tree/tom)** - Multiplayer web-based pong game using Django, PostgreSQL, and WebSockets </br>
+👽 **[Scop](https://github.com/NineSuper/Scop)** - 3D rendering in C with OpenGL and SDL2 </br>
 👾 **[Cub3d](https://github.com/NineSuper/Cub3D)** - a doom like in C</br>
 🐚 **[Minishell](https://github.com/NineSuper/Minishell)** - Create a shell in C</br>
 🧠 **[Philosophers](https://github.com/NineSuper/philosophers)** - Implementation of dining philosophers problem using threads in C</br>
@@ -24,7 +25,6 @@
 
 <h2 align="center">🐛 Currently on these projects</h2>
 
-👽 **[Scop](https://github.com/NineSuper/Scop)** - 3D rendering in C with OpenGL and SDL2 </br>
 🎮 **[Emberfall](https://github.com/NineSuper/Emberfall)** - A 2D top-view exploration multiplayer game shooter created with Godot</br>
 
 <h2 align="center">👨‍💼 Experience</h2>
