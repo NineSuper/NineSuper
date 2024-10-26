@@ -18,7 +18,8 @@
 | 📘 **[CPP learning](https://github.com/NineSuper/CPP-module)**                    | Covers essential C++ concepts, including object-oriented programming and advanced data handling.  | *C++*          |
 
 
-**Other projects are in the process of being published on my Github.. :octocat:**
+**Other projects are in the process of being published on my Github..:octocat:**
+*Don't worry, the next ones won't all be in C. I'm exploring other languages too, like... um, C++ !*
 
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
