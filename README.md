@@ -9,7 +9,7 @@
 
 🌐 **[ft_transcendence](https://github.com/lcssbrs/ft_transcendence/tree/tom)** - Multiplayer web-based pong game using Django, PostgreSQL, and WebSockets </br>
 👽 **[Scop](https://github.com/NineSuper/Scop)** - 3D rendering in C with OpenGL and SDL2</br>
-👾 **[Cub3d](https://github.com/NineSuper/Cub3D)** - A Wolfeinstein3D/Doom like in C</br>
+:rage2: **[Cub3d](https://github.com/NineSuper/Cub3D)** - A Wolfeinstein3D/Doom like in C</br>
 🐚 **[Minishell](https://github.com/NineSuper/Minishell)** - Create a shell (Unix)</br>
 🧠 **[Philosophers](https://github.com/NineSuper/philosophers)** - Implementation of dining philosophers problem using threads in C</br>
 🔄 **[Push_Swap](https://github.com/NineSuper/push_swap)** - Sort data algorithm using two stacks and limited set of instructions</br>
