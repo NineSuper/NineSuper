@@ -5,8 +5,6 @@
 🎮 Former leader of a thriving gaming community with +10,000 unique players<br/>
 🕹️ Specialized in Garry's Mod and Minecraft servers<br/>
 
-<h2 align="center">🗃 Projects</h2>
-
 | **Project**                 | **Description**                                                                                      | **Language** 	       |
 |-----------------------------|------------------------------------------------------------------------------------------------------|-----------------------|
 | **[ft_transcendence](https://github.com/lcssbrs/ft_transcendence/tree/tom)**  | 🏓 A multiplayer pong game built with real-time WebSockets for dynamic player interactions.          |*Django, PostgreSQL, Websocket, etc..*|
