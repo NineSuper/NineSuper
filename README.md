@@ -5,15 +5,18 @@
 🎮 Former leader of a thriving gaming community with +10,000 unique players<br/>
 🕹️ Specialized in Garry's Mod and Minecraft servers<br/>
 
-<h2 align="center">🚀 Projects</h2>
+<h2 align="center">🗃 Projects</h2>
 
-🌐 **[ft_transcendence](https://github.com/lcssbrs/ft_transcendence/tree/tom)** - Multiplayer web-based pong game using Django, PostgreSQL, and WebSockets </br>
-👽 **[Scop](https://github.com/NineSuper/Scop)** - 3D rendering in C with OpenGL and SDL2</br>
-:rage2: **[Cub3d](https://github.com/NineSuper/Cub3D)** - A Wolfeinstein3D/Doom like in C</br>
-🐚 **[Minishell](https://github.com/NineSuper/Minishell)** - Create a shell (Unix)</br>
-🧠 **[Philosophers](https://github.com/NineSuper/philosophers)** - Implementation of dining philosophers problem using threads in C</br>
-🔄 **[Push_Swap](https://github.com/NineSuper/push_swap)** - Sort data algorithm using two stacks and limited set of instructions</br>
-📘 **[CPP learning](https://github.com/NineSuper/CPP-module)** - C++ Pool with 42</br>
+| **Project**           | **Description**                                                                                      | **Language** 	   |
+|-----------------------|------------------------------------------------------------------------------------------------------|-------------------|
+| 🏓 **[ft_transcendence](https://github.com/lcssbrs/ft_transcendence/tree/tom)**  | A multiplayer pong game built with real-time WebSockets for dynamic player interactions.         | *Django, PostgreSQL, WebSockets, etc..* |
+| 👽 **[Scop](https://github.com/NineSuper/Scop)**                                 | 3D rendering project focused on loading and displaying .obj files with various visual effects.    | *C, OpenGL, SDL2* |
+| :rage2: **[Cub3d](https://github.com/NineSuper/Cub3D)**                          |  A Wolfenstein3D/Doom-like game, implementing basic ray-casting for 3D visuals and movement.      | *C*            |
+| 🐚 **[Minishell](https://github.com/NineSuper/Minishell)**                       | Develops a custom Unix shell, handling basic commands, piping, and process management.            | *C*            |
+| 🧠 **[Philosophers](https://github.com/NineSuper/philosophers)**                 | Simulation of the dining philosophers problem, using threads to handle concurrent access.         | *C*            |
+| 🔄 **[Push_Swap](https://github.com/NineSuper/push_swap)**                       | Implements a sorting algorithm with two stacks, optimized for minimal instruction sets.           | *C*            |
+| 📘 **[CPP learning](https://github.com/NineSuper/CPP-module)**                    | Covers essential C++ concepts, including object-oriented programming and advanced data handling.  | *C++*          |
+
 
 **Other projects are in the process of being published on my Github.. :octocat:**
 
