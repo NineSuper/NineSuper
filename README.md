@@ -8,12 +8,14 @@
 <h2 align="center">🚀 Projects</h2>
 
 🌐 **[ft_transcendence](https://github.com/lcssbrs/ft_transcendence/tree/tom)** - Multiplayer web-based pong game using Django, PostgreSQL, and WebSockets </br>
-👽 **[Scop](https://github.com/NineSuper/Scop)** - 3D rendering in C with OpenGL and SDL2 </br>
-👾 **[Cub3d](https://github.com/NineSuper/Cub3D)** - a doom like in C</br>
-🐚 **[Minishell](https://github.com/NineSuper/Minishell)** - Create a shell in C</br>
+👽 **[Scop](https://github.com/NineSuper/Scop)** - 3D rendering in C with OpenGL and SDL2</br>
+👾 **[Cub3d](https://github.com/NineSuper/Cub3D)** - A Wolfeinstein3D/Doom like in C</br>
+🐚 **[Minishell](https://github.com/NineSuper/Minishell)** - Create a shell (Unix)</br>
 🧠 **[Philosophers](https://github.com/NineSuper/philosophers)** - Implementation of dining philosophers problem using threads in C</br>
-🔄 **[Push_Swap](https://github.com/NineSuper/push_swap)** - Sort data using two stacks and limited set of instructions in C</br>
+🔄 **[Push_Swap](https://github.com/NineSuper/push_swap)** - Sort data algorithm using two stacks and limited set of instructions</br>
 📘 **[CPP learning](https://github.com/NineSuper/CPP-module)** - C++ Pool with 42</br>
+
+<h2 align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25iNnAzZ3pvdW4zcWZxcDlwc3A4Njg4MWw0OGdsZnI0c2cxOHVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIGT8Y1rOYhBpdHh1C/giphy.gif" width = "25"> 🚧 **Other projects are in the process of being published on Git** </h2>
 
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
@@ -32,7 +34,7 @@
 👨‍💻 **Student at School 42**</br>
   📆 Dates: 2022 - present</br>
   
-🎮 **Community Manager**</br>
+🎮 **Community developer/Community Manager**</br>
   📆 Dates: 2017 - 2020</br>
   📌 Managed a gaming community with +10,000 unique players</br>
   🚀 Successfully led Garry's Mod and Minecraft servers</br>
