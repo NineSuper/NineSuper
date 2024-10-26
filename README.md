@@ -15,7 +15,7 @@
 🔄 **[Push_Swap](https://github.com/NineSuper/push_swap)** - Sort data algorithm using two stacks and limited set of instructions</br>
 📘 **[CPP learning](https://github.com/NineSuper/CPP-module)** - C++ Pool with 42</br>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25iNnAzZ3pvdW4zcWZxcDlwc3A4Njg4MWw0OGdsZnI0c2cxOHVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIGT8Y1rOYhBpdHh1C/giphy.gif" width = "64"> **Other projects are in the process of being published on Git**
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25iNnAzZ3pvdW4zcWZxcDlwc3A4Njg4MWw0OGdsZnI0c2cxOHVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIGT8Y1rOYhBpdHh1C/giphy.gif" width = "26"> **Other projects are in the process of being published on Git**
 
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
