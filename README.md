@@ -1,4 +1,4 @@
-<h1 align="center">NineSuper's GitHub :shipit: </h1>
+<h1 align="center">NineSuper's GitHub :shipit:</h1>
 
 👨‍💻 Computer Science Student @ [42](https://42.fr/)<br/>
 🌍 Passionate about coding since the age of 15<br/>
@@ -15,12 +15,12 @@
 🔄 **[Push_Swap](https://github.com/NineSuper/push_swap)** - Sort data algorithm using two stacks and limited set of instructions</br>
 📘 **[CPP learning](https://github.com/NineSuper/CPP-module)** - C++ Pool with 42</br>
 
-**Other projects are in the process of being published on my Github..**
+**Other projects are in the process of being published on my Github.. :octocat:**
 
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
-💻 **Programming:** C, C++, JavaScript, Python</br>
-🌐 **Web Development:** React, CSS, HTML</br>
+💻 **Programming:** C/C++, JavaScript, Python</br>
+🌐 **Web Development:** HTML, CSS, React</br>
 🐍 **Backend Framework:** Django </br>
 🛢️ **Database:** MySQL, PhpMyAdmin, PostgreSQL</br>
 🕹️ **Game Development:** Godot Engine, Garry's Mod Lua Scripting, Minecraft</br>
