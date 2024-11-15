@@ -9,13 +9,13 @@
 
 | **Project**                 | **Description**                                                                                      | **Language** 	       |
 |-----------------------------|------------------------------------------------------------------------------------------------------|-----------------------|
-| **[ft_transcendence](https://github.com/lcssbrs/ft_transcendence/tree/tom)**  | 🏓 A multiplayer pong game built with real-time WebSockets for dynamic player interactions.          |*Django, PostgreSQL, Websocket, etc..*|
-| **[Scop](https://github.com/NineSuper/Scop)**                                 | 👽 3D rendering project focused on loading and displaying .obj files with various visual effects.    | *C, OpenGL, SDL2* |
-| **[Cub3d](https://github.com/NineSuper/Cub3D)**                               |  :rage2: A Wolfenstein3D/Doom-like game, implementing basic ray-casting for 3D visuals and movement. | *C*            |
-| **[Minishell](https://github.com/NineSuper/Minishell)**                       | 🐚 Develops a custom Unix shell, handling basic commands, piping, and process management.            | *C*            |
-| **[Philosophers](https://github.com/NineSuper/philosophers)**                 | 🧠 Simulation of the dining philosophers problem, using threads to handle concurrent access.         | *C*            |
-| **[Push_Swap](https://github.com/NineSuper/push_swap)**                       | 🔄 Implements a sorting algorithm with two stacks, optimized for minimal instruction sets.           | *C*            |
-| **[CPP learning](https://github.com/NineSuper/CPP-module)**                   | 📘 Covers essential C++ concepts, including object-oriented programming and advanced data handling.  | *C++*          |
+| **[ft_transcendence](https://github.com/lcssbrs/ft_transcendence/tree/tom)**  | 🏓 A multiplayer pong game built with real-time WebSockets for dynamic player interactions.          | [![My Skills](https://skillicons.dev/icons?i=html,css,django,py,postgres)](https://skillicons.dev) |
+| **[Scop](https://github.com/NineSuper/Scop)**                                 | 👽 3D rendering project focused on loading and displaying .obj files with various visual effects.    | [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) *openGl, SDL2* |
+| **[Cub3d](https://github.com/NineSuper/Cub3D)**                               |  :rage2: A Wolfenstein3D/Doom-like game, implementing basic ray-casting for 3D visuals and movement. | [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) |
+| **[Minishell](https://github.com/NineSuper/Minishell)**                       | 🐚 Develops a custom Unix shell, handling basic commands, piping, and process management.            | [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) |
+| **[Philosophers](https://github.com/NineSuper/philosophers)**                 | 🧠 Simulation of the dining philosophers problem, using threads to handle concurrent access.         | [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) |
+| **[Push_Swap](https://github.com/NineSuper/push_swap)**                       | 🔄 Implements a sorting algorithm with two stacks, optimized for minimal instruction sets.           | [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) |
+| **[CPP learning](https://github.com/NineSuper/CPP-module)**                   | 📘 Covers essential C++ concepts, including object-oriented programming and advanced data handling.  | [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) |
 
 
 :octocat: **Other projects are in the process of being published on my Github..**
