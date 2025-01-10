@@ -47,7 +47,7 @@
 
 | **Phase**                      | **Objective**                                                                                                   | **Details**                                           | **Status**               |
 |--------------------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------|
-| 🏁 **Phase 1: Current Internship**    | Complete the internship started in July 2024 and scheduled until January 2025.                     | 🔄 Strengthen my professional skills                   | *In progress...*          |
+| 🏁 **Phase 1: Current Internship**    | Complete the internship started in July 2024 and scheduled until January 2025.                     | 🔄 Strengthen my professional skills                   | *Finish* ✅          |
 | 🎓 **Phase 2: 2-Year Apprenticeship**  | Start an apprenticeship to earn the RNCP 7 diploma in network architecture.       | 💼 2-year apprenticeship program                       | *Planned - April 2025*    |
 | 📚 **Phase 3: School Projects**   | Work on 42 school projects in parallel with the apprenticeship.                                          | 🖥️ Various projects to obtain the diploma             | *Ongoing in 2025-27*      |
 | 🎮 **Phase 4: Emberfall**         | Progress in the development of *Emberfall*.                                                               | 🔍 Focus on gameplay features                          | *In progress...*          |
