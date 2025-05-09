@@ -23,10 +23,10 @@
 
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
-💻 **Programming:** C/C++, JavaScript, Python</br>
+💻 **Programming:** C/C++, Rust, JavaScript, Python</br>
 🌐 **Web Development:** HTML, CSS, React</br>
 🐍 **Backend Framework:** Django </br>
-🛢️ **Database:** MySQL, PhpMyAdmin, PostgreSQL</br>
+🛢️ **Database:** PostgreSQL, MySQL</br>
 🕹️ **Game Development:** Godot Engine, Garry's Mod Lua Scripting, Minecraft</br>
 
 <h2 align="center">🐛 Currently on these projects</h2>
