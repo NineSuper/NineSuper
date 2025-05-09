@@ -31,6 +31,7 @@
 
 <h2 align="center">🐛 Currently on these projects</h2>
 
+🦀 **[Zappy](https://github.com/NineSuper/Zappy)** - Fully automated game where you build the server, AI clients, and the graphical interface</br>
 🎮 **[Emberfall](https://github.com/NineSuper/Emberfall)** - A 2D top-view exploration multiplayer game shooter created with Godot</br>
 
 <h2 align="center">👨‍💼 Experience</h2>
