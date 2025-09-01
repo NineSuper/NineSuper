@@ -44,16 +44,8 @@
   📌 Managed a gaming community with +10,000 unique players</br>
   🚀 Successfully led Garry's Mod and Minecraft servers</br>
 
-<h2 align="center"> 🚀 Roadmap</h2>
-
-| **Phase**                      | **Objective**                                                                                                   | **Details**                                           | **Status**               |
-|--------------------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------|
-| 🏁 **Phase 1: Current Internship**    | Complete the internship started in July 2024 and scheduled until January 2025.                     | 🔄 Strengthen my professional skills                     | *Finish*  |
-| 🎓 **Phase 2: 2-Year Apprenticeship**  | Start an apprenticeship to earn the RNCP 7 diploma in network architecture.       | 💼 2-year apprenticeship program                       | *Planned - April 2025*    |
-| 📚 **Phase 3: School Projects**   | Work on 42 school projects in parallel with the apprenticeship.                                          | 🖥️ Various projects to obtain the diploma             | *Ongoing in 2025-27*      |
-| 🎮 **Phase 4: Emberfall**         | Progress in the development of *Emberfall*.                                                               | 🔍 Focus on gameplay features                          | *In progress...*          |
-
 ---
+
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,html,css,js,react,docker,django,mysql,postgres,godot,lua,github&perline=6" alt="My Skills">
