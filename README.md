@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=NineSuper&reversal=false&section=header&textBg=false&animation=twinkling&strokeWidth=0&desc=42%20Student&descSize=30&descAlignY=66" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=NineSuper&reversal=false&section=header&textBg=false&animation=twinkling&desc=42%20Student&descSize=30&descAlignY=66" />
 </p>
 
 👨‍💻 Computer Science Student @ [42](https://42.fr/)<br/>
